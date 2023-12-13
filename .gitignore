@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 
 config.py
+Real-Time_Traffic_Incident_Reports.csv
 
 # C extensions
 *.so
