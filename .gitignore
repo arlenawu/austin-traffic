@@ -5,6 +5,9 @@ __pycache__/
 
 config.py
 Real-Time_Traffic_Incident_Reports.csv
+austin-traffic.ipynb
+austin_traffic_incident_reports_2023_sample.csv
+austin_traffic_incident_reports_nov2023_sample.csv
 
 # C extensions
 *.so
