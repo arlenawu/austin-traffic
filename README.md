@@ -18,9 +18,15 @@ So far, three charts have been published.
 
 - Map of Traffic Incidents - Maps out the incidents recorded for 2023
 
+	![](Images/EDA_Map.PNG)
+
 - Count of Incidents by Address - Lists the number of incidents of each type that occurred at each reported address in 2023
 
+	![](Images/EDA_Incidents_by_Address.PNG)
+
 - Incident Time of Publication - Shows a breakdown of when incidents were published by time of day and day of week.
+
+	![](Images/EDA_Time.PNG)
 
 ### Incident Types
 
