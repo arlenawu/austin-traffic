@@ -1,6 +1,6 @@
 # austin-traffic
 
-The purpose of this project is to analyze the City of Austin's public Traffic Incident data in order to identify patterns in the data
+The purpose of this project is to analyze the City of Austin's public Traffic Incident data in order to identify patterns of frequent traffic issues that may impact quality of life for Austin residents.
 
 
 Data is sourced from Austin Public Data - Real-Time Traffic Incident Reports
