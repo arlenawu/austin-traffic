@@ -12,7 +12,7 @@ https://data.austintexas.gov/Transportation-and-Mobility/Real-Time-Traffic-Incid
 
 The initial exploratory data analysis is still underway, but the current results can be viewed at the following link.
 
-[Link to interactive charts on Tableau Public](https://public.tableau.com/app/profile/arlenawu/viz/austintraffic/AustinTrafficIncidents2023?publish=yes)
+[Link to interactive charts on Tableau Public](https://public.tableau.com/app/profile/arlenawu/viz/austintraffic2023/AustinTrafficIncidents2023?publish=yes)
 
 So far, four charts have been published.
 
