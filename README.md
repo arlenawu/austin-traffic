@@ -14,7 +14,7 @@ The initial exploratory data analysis is still underway, but the current results
 
 [Link to interactive charts on Tableau Public](https://public.tableau.com/app/profile/arlenawu/viz/austintraffic2023/AustinTrafficIncidents2023?publish=yes)
 
-So far, four charts have been published.
+So far, four charts have been published looking at 2023 traffic incident data.
 
 - Map of Traffic Incidents - Maps out the incidents recorded for 2023
 
